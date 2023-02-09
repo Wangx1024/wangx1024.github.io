@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+I am Xudong Wang, a PhD candidate at McGill University in Montreal, Canada. 
