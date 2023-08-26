@@ -1,7 +1,5 @@
 ---
-title: 
-collection: publications
-permalink: 
+
 ---
 ## Spatiotemporal Modeling (Low-rank models) 
 
