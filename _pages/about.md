@@ -14,3 +14,11 @@ Greetings🧚🏻‍♀️, I'm Xudong Wang, currently pursuing my Ph.D. at McGi
 - Detecting Abnormal Behaviors
 
 I'm deeply enthusiastic about the transformative potential of machine learning in these areas and am committed to advancing our comprehension of spatiotemporal data through my ongoing research endeavors.
+
+
+
+
+News🔥：
+
+5/2023: My paper “Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis” is accepted at Transportation Research Part C. Full paper 
+2/2023: My paper “Low-Rank Hankel Tensor Completion for Traffic Speed Estimation” is accepted at IEEE Transactions on ITS. [Full paper][https://arxiv.org/abs/2105.11335]
