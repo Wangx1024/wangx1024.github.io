@@ -1,6 +1,4 @@
----
 
----
 ## Spatiotemporal Modeling (Low-rank models) 
 
 - Wang, Xudong, and Lijun Sun. “Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis.” Transportation Research Part C: Emerging Technologies (2023)
