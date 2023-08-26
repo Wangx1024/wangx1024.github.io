@@ -18,7 +18,8 @@ I'm deeply enthusiastic about the transformative potential of machine learning i
 
 
 
-News🔥：
+## Recent News🔥：
 
-5/2023: My paper “Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis” is accepted at Transportation Research Part C. Full paper 
-2/2023: My paper “Low-Rank Hankel Tensor Completion for Traffic Speed Estimation” is accepted at IEEE Transactions on ITS. [Full paper][https://arxiv.org/abs/2105.11335]
+5/2023: My paper “Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis” is accepted at Transportation Research Part C. [Full paper](https://arxiv.org/abs/2302.07108) 
+2/2023: My paper “Low-Rank Hankel Tensor Completion for Traffic Speed Estimation” is accepted at IEEE Transactions on ITS. [Full paper](https://arxiv.org/abs/2105.11335)
+1/2023: I had 3 papers at TRB 2023. I spent a wonderful week in DC! Happy to see new and old friends here ☕️!
