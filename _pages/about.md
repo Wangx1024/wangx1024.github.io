@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings🧚🏻‍♀️, I'm Xudong Wang, currently pursuing my Ph.D. at McGill University in Canada. My research centers on harnessing the power of** data-driven machine learning methods** for the spatiotemporal data analysis, especially focus on traffic data. Within this captivating field, I'm particularly driven by three research topics:
+Greetings🧚🏻‍♀️, I'm Xudong Wang, currently pursuing my Ph.D. at McGill University in Canada. My research centers on harnessing the power of**data-driven machine learning methods** for the spatiotemporal data analysis, especially focus on traffic data. Within this captivating field, I'm particularly driven by three research topics:
 - Imputing Missing Values
 - Uncovering Dynamic Patterns
 - Detecting Abnormal Behaviors
