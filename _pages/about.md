@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings🧚🏻‍♀️, My name is **Xudong Wang**, which means "sun rises from the east in the morning 🌅" in Chinese. I am a postdoctoral researcher in the Department of Civil Engineering at McGill University, where I harness the power of data to drive innovation in intelligent and sustainable transportation systems, from highways 🚗 to bike-sharing networks 🚴‍♂️.
+Greetings🧚🏻‍♀️! My name is **Xudong Wang**, which means "sun rises from the east in the morning 🌅" in Chinese. As a postdoctoral researcher in the Department of Civil Engineering at McGill University, I work alongside Prof. Luis Miranda-Moreno and Prof. Lijun Sun. My research leverages data to drive innovation in intelligent and sustainable transportation systems, from highways 🚗 to bike-sharing networks 🚴‍♂️.
 
-My expertise lies in blending machine learning, statistical modeling, optimization, and transportation network analysis to uncover insights and create impactful solutions from vast, multi-modal transportation datasets. Dive deeper into my work on [Google Scholar](https://scholar.google.com/citations?user=UNLmdv4AAAAJ&hl=en), LinkedIn, or reach out via email. 
+I specialize in applying/developing machine learning, statistical modeling, optimization, and transportation network analysis to uncover insights and create impactful solutions from vast, multi-modal transportation datasets. Dive deeper into my work on [Google Scholar](https://scholar.google.com/citations?user=UNLmdv4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/xudong-wang-985b13178/), or reach out via [email](xudong.wang2@mail.mcgill.ca). 
 
 
 
