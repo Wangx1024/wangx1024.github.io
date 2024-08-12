@@ -8,17 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Greetings🧚🏻‍♀️, I'm Xudong Wang, currently pursuing my Ph.D. at McGill University in Canada. My research centers on harnessing the power of**data-driven machine learning methods** for the spatiotemporal data analysis, especially focus on traffic data. Within this captivating field, I'm particularly driven by three research topics:
-- Imputing Missing Values
-- Uncovering Dynamic Patterns
-- Detecting Abnormal Behaviors
+Greetings🧚🏻‍♀️, My name is **Xudong Wang**, which means "sun rises from the east in the morning 🌅" in Chinese. I am a postdoctoral researcher in the Department of Civil Engineering at McGill University, where I harness the power of data to drive innovation in intelligent and sustainable transportation systems, from highways 🚗 to bike-sharing networks 🚴‍♂️.
 
-I'm deeply enthusiastic about the transformative potential of machine learning in these areas and am committed to advancing our comprehension of spatiotemporal data through my ongoing research endeavors.
+My expertise lies in blending machine learning, statistical modeling, optimization, and transportation network analysis to uncover insights and create impactful solutions from vast, multi-modal transportation datasets. Dive deeper into my work on [Google Scholar](https://scholar.google.com/citations?user=UNLmdv4AAAAJ&hl=en), LinkedIn, or reach out via email. 
 
 
 
-
-## Recent News🔥：
+## Recent News 🔥：
 
 5/2023: My paper “Anti-circulant dynamic mode decomposition with sparsity-promoting for highway traffic dynamics analysis” is accepted at Transportation Research Part C. [Full paper](https://arxiv.org/abs/2302.07108) 
 
